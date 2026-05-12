@@ -3,12 +3,12 @@
 📌 Project Overview
 This project demonstrates the implementation of Multiple Linear Regression (MLR) using Object-Oriented Programming (OOP) in Python. The model is trained to predict house prices based on various features like bedrooms, bathrooms, square footage, and more.
 
-🎯 Objectives
+<h2🎯 Objectives
 Implement MLR using OOP concepts
 Perform data preprocessing (encoding categorical data)
 Train and evaluate the model
 Predict new/custom input data
-Save and load trained model using pickle
+Save and load trained model using pickle<h2>
 🛠️ Technologies Used
 Python 🐍
 Pandas
