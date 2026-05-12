@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🚀 Multiple Linear Regression — OOP Implementation</title>
 </head>
 <body>
-  <header>🚀 Multiple Linear Regression — OOP Implementation with Flask Deployment</header>
+  <header><h1>🚀 Multiple Linear Regression — OOP Implementation with Flask Deployment</h1></header>
 
   <section>
     <h2>📌 Project Overview</h2>
