@@ -72,7 +72,7 @@ cd MLR_OOPS_Code
 pip install -r requirements.txt
 python main.py
 python app.py</code></pre>
-    <p>Open in browser: <strong>http://127.0.0.1:5000/</strong></p>
+    <p>Open in browser: <strong>https://mlr-oops.onrender.com</strong></p>
   </section>
 
   <section>
